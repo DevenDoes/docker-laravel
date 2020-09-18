@@ -1,6 +1,12 @@
 ## laravel-docker
 My simple Docker Compose framework for developing Laravel applications on a LEMP stack. Original inspired by [Andrew Schmelyun's repo](https://github.com/aschmelyun/docker-compose-laravel).
 
+### Initial Setup
+To initialize the cloned repository for use locally, run the `init.sh` script.
+
+This script removes the `.git` repository directory and the `src/README.md` file to allow for a new Git repository for the Laravel project.
+
+
 ### How it Works
 [Docker](https://docs.docker.com/docker-for-windows/install/) must be installed to utilize this repository. 
 
