@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 .idea
+=======
+ .idea
+ .vscode
+ mysql/*
+>>>>>>> tmp
